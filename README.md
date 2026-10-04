@@ -97,6 +97,3 @@ Run the cells from top to bottom.
 - Imbalance is handled with class weights; resampling (e.g. SMOTE) and probability calibration could be compared.
 - Add PR-AUC, feature-importance plots and a cost-based threshold (weighing the cost of a missed default against a rejected good loan).
 
-## Author
-
-**Gulshan**, B.Sc. (Hons.) Statistics, Banaras Hindu University
